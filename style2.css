@@ -1,5 +1,10 @@
 body  {
   background-image: url("https://imgix.bustle.com/uploads/getty/2020/4/25/ba433b45-1ae3-4757-a7bb-239cf56d3fd5-getty-1218538177.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format%2Ccompress");
 }
+h1  {
+  color: rgb(250, 250, 250);
+}
+ p  {
+                color:rgb(250, 250, 250);
 #nav-table {width: 800px;}
 #nav-td {width: 200px; text-align:center;}
